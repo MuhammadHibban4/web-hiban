@@ -1,0 +1,5 @@
+[27-Oct-2025 08:50:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'food_id' doesn't have a default value in /home/tugaspabw/public_html/2414101018.tugaspabw.site/process_checkout.php:29
+Stack trace:
+#0 /home/tugaspabw/public_html/2414101018.tugaspabw.site/process_checkout.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/tugaspabw/public_html/2414101018.tugaspabw.site/process_checkout.php on line 29
